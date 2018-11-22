@@ -9,7 +9,7 @@ var glide = new Glide('.glide', {
         3000: {
             perView: 2
         },
-        800: {
+        1200: {
             perView: 2
         },
         600: {
