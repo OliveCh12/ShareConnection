@@ -4,11 +4,23 @@ body {
   overflow-y: hidden; }
 
 nav {
-  font-weight: 600; }
+  padding-top: 30px;
+  padding-bottom: 100px;
+  font-weight: 600;
+  filter: grayscale(1); }
 
 .nav-item .nav-link {
   transition: 0.3s; }
 .nav-item .nav-link:hover {
   color: #EA5455 !important; }
+
+.logo-divider {
+  opacity: 0.6;
+  font-weight: 400;
+  font-size: 12pt; }
+
+@media screen and (max-width: 600px) {
+  nav {
+    filter: hue-rotate(180); } }
 
 /*# sourceMappingURL=app.css.map */
