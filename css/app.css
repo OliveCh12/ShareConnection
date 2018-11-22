@@ -1,0 +1,14 @@
+body {
+  height: 100vh;
+  background-color: #f5f5f5;
+  overflow-y: hidden; }
+
+nav {
+  font-weight: 600; }
+
+.nav-item .nav-link {
+  transition: 0.3s; }
+.nav-item .nav-link:hover {
+  color: #EA5455 !important; }
+
+/*# sourceMappingURL=app.css.map */

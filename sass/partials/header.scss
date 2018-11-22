@@ -1,0 +1,12 @@
+nav {
+    font-weight: 600;
+}
+.nav-item {
+    .nav-link {
+        transition: 0.3s;
+    }
+
+    .nav-link:hover {
+        color: $primary !important;
+    }
+}
