@@ -46,7 +46,7 @@ footer {
 @media screen and (max-width: 600px)
 {
     .glide__slide{
-        height: 50vh;
+        height: 70vh;
         width: 400px;
     }
 }
